@@ -52,3 +52,26 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#loginModal .modal-header {
+  background-color: #512DA8; }
+  #loginModal .modal-header .close {
+    color: floralwhite; }
+  #loginModal .modal-header .modal-title {
+    color: floralwhite; }
+
+#loginModal .modal-body {
+  background-color: #D1C4E9; }
+
+#reservetableModal .modal-header {
+  background-color: #512DA8; }
+  #reservetableModal .modal-header .close {
+    color: floralwhite; }
+  #reservetableModal .modal-header .modal-title {
+    color: floralwhite; }
+
+#reservetableModal .modal-body {
+  background-color: #D1C4E9; }
+
+#reservetableModal .modal-content {
+  background-color: #D1C4E9; }
